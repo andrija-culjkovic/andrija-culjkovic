@@ -7,3 +7,4 @@ Computer Science student at the Faculty of Sciences and Mathematics, University 
 **Languages:** Serbian (native), English (B2)
 
 I'm building my first projects, so check back soon!
+
